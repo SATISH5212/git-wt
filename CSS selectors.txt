@@ -1,0 +1,16 @@
+<html>
+<head>
+<title> CSS SELECTORS
+</title>
+</head>
+<body>
+<p>In CSS for designing webpages we had 5 types of CSS selectors.</br> They are
+1.Tag selector</br>
+2.ID selector</br>
+3.Class selector</br>
+2.Grouping selector</br>
+2.Universal selector</br><p>
+
+
+</body>
+</html>
